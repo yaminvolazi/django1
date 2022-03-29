@@ -41,7 +41,7 @@ netaddr==0.7.5
 netifaces==0.10.4
 ntplib==0.3.2
 olefile==0.44
-paramiko==1.16.1
+paramiko==2.10.1
 perf==0.1
 Pillow==4.2.1
 ply==3.4
